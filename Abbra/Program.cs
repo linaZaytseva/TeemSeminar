@@ -10,6 +10,9 @@ namespace Abbra
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, Фрр");
+            Console.ReadLine();
+            
         }
     }
 }
